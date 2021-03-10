@@ -1,6 +1,6 @@
     /*
     Flaticon icon font: Flaticon
-    Creation date: 06/04/2020 04:44
+    Creation date: 10/03/2021 03:41
     */
 
     @font-face {
@@ -37,22 +37,20 @@
   font-smoothing: antialiased;
     }
 
-    .flaticon-pawprint-1:before { content: "\f100"; }
-.flaticon-pawprint:before { content: "\f101"; }
-.flaticon-blind:before { content: "\f102"; }
-.flaticon-dog-eating:before { content: "\f103"; }
-.flaticon-grooming:before { content: "\f104"; }
-.flaticon-stethoscope:before { content: "\f105"; }
-.flaticon-customer-service:before { content: "\f106"; }
-.flaticon-emergency-call:before { content: "\f107"; }
-.flaticon-veterinarian:before { content: "\f108"; }
+    .flaticon-logo1:before { content: "\f100"; }
+.flaticon-basura1:before { content: "\f101"; }
+.flaticon-basura4:before { content: "\f102"; }
+.flaticon-persona1:before { content: "\f103"; }
+.flaticon-camion2:before { content: "\f104"; }
+.flaticon-eco2:before { content: "\f105"; }
+.flaticon-camisa1:before { content: "\f106"; }
+.flaticon-empresa1:before { content: "\f107"; }
     
-    $font-Flaticon-pawprint-1: "\f100";
-    $font-Flaticon-pawprint: "\f101";
-    $font-Flaticon-blind: "\f102";
-    $font-Flaticon-dog-eating: "\f103";
-    $font-Flaticon-grooming: "\f104";
-    $font-Flaticon-stethoscope: "\f105";
-    $font-Flaticon-customer-service: "\f106";
-    $font-Flaticon-emergency-call: "\f107";
-    $font-Flaticon-veterinarian: "\f108";
+    $font-Flaticon-logo1: "\f100";
+    $font-Flaticon-basura1: "\f101";
+    $font-Flaticon-basura4: "\f102";
+    $font-Flaticon-persona1: "\f103";
+    $font-Flaticon-camion2: "\f104";
+    $font-Flaticon-eco2: "\f105";
+    $font-Flaticon-camisa1: "\f106";
+    $font-Flaticon-empresa1: "\f107";
