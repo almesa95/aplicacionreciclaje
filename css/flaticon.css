@@ -18,7 +18,7 @@
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
     font-family: "Flaticon";
-    src: url("../fonts/flaticon/font/Flaticon.svg#Flaticon") format("svg");
+    src: url("./Flaticon.svg#Flaticon") format("svg");
   }
 }
 
@@ -30,7 +30,7 @@ font-style: normal;
 margin-left: 0px;
 }
 
-.flaticon-logo1:before { content: "\f100";font-size: 30px; }
+.flaticon-logo1:before { content: "\f100"; }
 .flaticon-basura1:before { content: "\f101"; }
 .flaticon-basura4:before { content: "\f102"; }
 .flaticon-persona1:before { content: "\f103"; }
